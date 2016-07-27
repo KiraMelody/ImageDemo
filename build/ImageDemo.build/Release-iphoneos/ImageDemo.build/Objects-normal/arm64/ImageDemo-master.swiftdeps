@@ -1,0 +1,8 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.8 clang-703.0.31)"
+options: "43b3248df19e41f5a8d38507c66b0c34"
+build_time: [522928356, 623019000]
+inputs:
+  "/Users/apple/Developer/ImageDemo/ImageDemo/AppDelegate.swift": [522915936, 0]
+  "/Users/apple/Developer/ImageDemo/ImageDemo/PhotoCollectionViewController.swift": !dirty [522928335, 0]
+  "/Users/apple/Developer/ImageDemo/ImageDemo/ImageViewController.swift": [522917935, 0]
+  "/Users/apple/Developer/ImageDemo/ImageDemo/PhotoCollectionViewCell.swift": [522925995, 0]
